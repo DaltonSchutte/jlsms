@@ -1,0 +1,4 @@
+gdelt:
+  version: 2
+  table: 'events'
+  output: 'csv'
